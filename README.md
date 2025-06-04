@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: _[Solution Here | github](https://github.com/Yaseeru/confrence-ticket-generator-solution)_
-- Live Site URL: _[Live site | netlify](https://confrence-ticket-generator-solution.netlify.app/ticket.html)_
+- Live Site URL: _[Live site | netlify](https://confrence-ticket-generator-solution.netlify.app)_
 
 ## My process
 
